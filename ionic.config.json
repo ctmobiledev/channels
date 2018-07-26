@@ -1,0 +1,8 @@
+{
+  "name": "channels",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "d15be140"
+}
